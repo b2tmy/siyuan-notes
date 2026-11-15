@@ -75,3 +75,12 @@
 - [00 pwn](pwn/00%20pwn.md)
 - [01 汇编基础：寄存器、指令、调用约定与栈帧](pwn/01%20汇编基础：寄存器、指令、调用约定与栈帧.md)
 - [02 栈溢出：从覆盖返回地址到第一个 shell](pwn/02%20栈溢出：从覆盖返回地址到第一个%20shell.md)
+
+## framework
+
+- [00 framework](framework/00%20framework.md)
+- [01 LSPosed：Xposed 生态、模块结构、Hook API 与作用域](framework/01%20LSPosed：Xposed%20生态、模块结构、Hook%20API%20与作用域.md)
+- [02 Zygisk：zygote 注入、模块生命周期与 native hook](framework/02%20Zygisk：zygote%20注入、模块生命周期与%20native%20hook.md)
+- [03 其他框架与选型：root 层、注入层、Hook 库](framework/03%20其他框架与选型：root%20层、注入层、Hook%20库.md)
+- [04 最小可运行模块：LSPosed 与 Zygisk 各一套骨架](framework/04%20最小可运行模块：LSPosed%20与%20Zygisk%20各一套骨架.md)
+- [05 检测与对抗：root、框架与 hook 的痕迹](framework/05%20检测与对抗：root、框架与%20hook%20的痕迹.md)

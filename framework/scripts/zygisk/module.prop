@@ -1,0 +1,6 @@
+id=demozygisk
+name=Demo Zygisk Module
+version=v1.0
+versionCode=1
+author=you
+description=最小 Zygisk 模块
